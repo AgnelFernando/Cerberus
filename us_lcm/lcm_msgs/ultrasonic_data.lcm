@@ -1,0 +1,5 @@
+struct ultrasonic_data
+{
+    double stamp;
+    double range[4];  // front, right, left back, max = 2.0 m,  placeholder = 10.0
+}
