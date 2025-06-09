@@ -215,5 +215,5 @@ If you’d like to improve Cerberus, feel free to:
 
 * 📚 [Unitree Docs](https://unitree-docs.readthedocs.io/en/latest/get_started/Go1_Edu.html)
 * 🐾 [go1pylib by chinmaynehate](https://github.com/chinmaynehate/go1pylib)
-* 🔧 [UnitreeCameraSDK by YushuTech](https://github.com/unitreerobotics/UnitreecameraSDK)
+* 🔧 [YushuTechUnitreeGo1 by MAVProxyUser](https://github.com/MAVProxyUser/YushuTechUnitreeGo1)
 
