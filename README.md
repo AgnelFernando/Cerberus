@@ -1,6 +1,6 @@
 # Cerberus: Autonomous Robot Dog Surveillance System
 
-Welcome to **Cerberus**, an AI-powered surveillance system built on the Unitree Go1 robot dog. The project performs **localization and mapping** using ultrasonic sensors, and leverages the **fisheye camera** for **object detection** and **person activity recognition**.
+Welcome to Cerberus, an AI-powered surveillance system built on the Unitree Go1 robot dog. The project performs localization and mapping using ultrasonic sensors, and leverages the fisheye camera for object detection and person activity recognition.
 
 ---
 
