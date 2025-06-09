@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mediapipe
+events
+paho-mqtt
+lcm
